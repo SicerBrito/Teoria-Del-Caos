@@ -1,7 +1,10 @@
 # Simulación de Péndulos Dobles Caóticos y Teoría del Caos
 
-Autor: Sicer Andres Brito Gutierrez
-Contacto: Discord: SicerBrito#1610
+## Autor
+
+Sicer Andres Brito Gutierrez
+
+Discord: SicerBrito#1610
 
 ## Teoría del Caos
 
