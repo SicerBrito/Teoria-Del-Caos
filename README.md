@@ -28,7 +28,7 @@ La teoría del caos se aplica en muchos campos como la meteorología, la econom�
    
    Este comportamiento caótico ocurre porque estos sistemas son muy sensibles a las condiciones iniciales, lo que es una característica clave en la Teoría del Caos. Esto significa que, aunque el sistema es determinista (las leyes físicas son claras), el comportamiento a largo plazo se vuelve impredecible.
 
-<div style="display: flex; text-align: center; justify-content: center; align-items: center;">
+<div align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Lorenz_attractor_yb.svg/300px-Lorenz_attractor_yb.svg.png" alt="Efecto Mariposa">
 </div>
 
